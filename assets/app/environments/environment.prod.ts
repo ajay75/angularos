@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://todolist-todo.192.168.99.100.nip.io'
+  apiUrl: 'http://todolist-todo.172.23.245.162.nip.io'
 };
