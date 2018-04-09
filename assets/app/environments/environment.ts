@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'http://todolist-mde.1d35.starter-us-east-1.openshiftapps.com'
+  apiUrl: 'http://todolist-backend.192.168.64.2.nip.io'
 };
